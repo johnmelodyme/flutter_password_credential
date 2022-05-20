@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="net.irgaly.password_credential_example">
     <application
-        android:name="io.flutter.app.FlutterApplication"
+        android:name="${applicationName}"
         android:label="password_credential_example"
         android:icon="@mipmap/ic_launcher">
         <activity
